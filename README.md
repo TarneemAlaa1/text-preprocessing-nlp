@@ -1,6 +1,6 @@
 # 🧠 Text Preprocessing in NLP — A Comparison using NLTK, SpaCy & Hugging Face
 
-## 📌 Overview
+## Overview
 This project explores and compares various text preprocessing techniques using three major NLP libraries:
 
 - 🧰 **NLTK** – basic rule-based preprocessing  
@@ -16,7 +16,7 @@ We apply each pipeline to real-world Twitter data and analyze the tradeoffs thro
 
 ---
 
-## 🔍 Comparison Table
+## Comparison Table
 
 | Method           | Stopwords Removed | Lemmatized | Subwords | Notes                              |
 |------------------|-------------------|------------|----------|------------------------------------|
@@ -26,7 +26,7 @@ We apply each pipeline to real-world Twitter data and analyze the tradeoffs thro
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 - Cleaned **1,000 real tweets** from NLTK's Twitter dataset  
 - Compared **vocabulary reduction** across pipelines  
@@ -35,7 +35,7 @@ We apply each pipeline to real-world Twitter data and analyze the tradeoffs thro
 
 ---
 
-## 📌 Sample Token Output (Shortened View)
+## Sample Token Output (Shortened View)
 
 | Tweet # | NLTK Tokens                           | SpaCy Tokens                        | Hugging Face Tokens                            |
 |--------|----------------------------------------|-------------------------------------|------------------------------------------------|
@@ -46,14 +46,14 @@ We apply each pipeline to real-world Twitter data and analyze the tradeoffs thro
 
 ---
 
-## 📁 Files
+## Files
 
 - `text_preprocessing_comparison.ipynb` – Full notebook with code, visualizations, and explanations  
 - `README.md` – This file  
 
 ---
 
-## 📚 How to Run
+## How to Run
 
 1. Clone the repo or download the notebook  
 2. Install required libraries: `nltk`, `spacy`, `transformers`, `wordcloud`, `matplotlib`, etc.  
