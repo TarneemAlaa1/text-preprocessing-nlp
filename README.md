@@ -9,10 +9,10 @@ This project explores and compares various text preprocessing techniques using t
 
 We apply each pipeline to real-world Twitter data and analyze the tradeoffs through:
 
-- 📉 Vocabulary compression  
-- 🧪 Token output comparison  
-- 📊 Visualizations (top tokens, word clouds)  
-- 🎯 Use-case suitability analysis
+- Vocabulary compression  
+- Token output comparison  
+- Visualizations (top tokens, word clouds)  
+- Use-case suitability analysis
 
 ---
 
@@ -28,10 +28,10 @@ We apply each pipeline to real-world Twitter data and analyze the tradeoffs thro
 
 ## ✨ Highlights
 
-- ✅ Cleaned **1,000 real tweets** from NLTK's Twitter dataset  
-- 📊 Compared **vocabulary reduction** across pipelines  
-- 🧾 Visualized **top tokens & token distributions** by plotting token frequencies and word clouds to better understand what each method emphasizes.
-- 🧠 Showcased **different preprocessing strategies** for ML vs LLMs  
+- Cleaned **1,000 real tweets** from NLTK's Twitter dataset  
+- Compared **vocabulary reduction** across pipelines  
+- Visualized **top tokens & token distributions** by plotting token frequencies and word clouds to better understand what each method emphasizes.
+- Showcased **different preprocessing strategies** for ML vs LLMs  
 
 ---
 
