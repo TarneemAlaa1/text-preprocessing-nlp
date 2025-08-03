@@ -1,10 +1,10 @@
-# 🧠 Text Preprocessing in NLP — A Comparison using NLTK, SpaCy & Hugging Face
+# Text Preprocessing in NLP: A Comparison using NLTK, SpaCy & Hugging Face
 
 ## Overview
 This project explores and compares various text preprocessing techniques using three major NLP libraries:
 
-- 🧰 **NLTK** – basic rule-based preprocessing  
-- ⚙️ **SpaCy** – linguistically aware pipeline  
+- **NLTK** – basic rule-based preprocessing  
+- **SpaCy** – linguistically aware pipeline  
 - 🤗 **Hugging Face** – subword-based tokenizer used in modern LLMs like BERT
 
 We apply each pipeline to real-world Twitter data and analyze the tradeoffs through:
